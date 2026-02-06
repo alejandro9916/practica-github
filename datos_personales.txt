@@ -2,5 +2,5 @@ Nombre: Alejandro García Gomez
 Edad: 25 años
 Escuela: Instituto Tecnológico de Chihuahua II
 Carrera: Ingeniería en Informatica
-Materia: Cloud
+Materia: Cloud Computing
 Fecha: 05/02/2026
