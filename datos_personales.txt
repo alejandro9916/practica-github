@@ -1,6 +1,6 @@
-Nombre: Alejandro García Gomez
-Edad: 25 años
+Nombre: Manuel Alejandro García Gomez
+Edad: 24 años
 Escuela: Instituto Tecnológico de Chihuahua II
 Carrera: Ingeniería en Informatica
-Materia: Cloud Computing
+Materia: Imtroduccion Cloud Computing
 Fecha: 05/02/2026
